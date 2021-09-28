@@ -3,4 +3,4 @@
 ### 2021_3B
 |:smile:|
 |:-----:|
-[NKUST](NKUST.png "高科大")
+![NKUST](NKUST.png "高科大")
