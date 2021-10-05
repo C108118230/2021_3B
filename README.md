@@ -17,3 +17,22 @@
 
 - [ ] to do list
 - [ ] 2nd things
+- [x] 3th things
+
+**粗體字**
+
+**_斜體與粗體字_**
+
+～刪除線～
+
+>item list
+>>1.the first item
+
+>>2.the second item
+>>>*the first item under the second item
+
+
+javascript code
+ ```javascript code
+var s = "JavaScript highlighting";
+alert(s);
