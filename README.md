@@ -23,7 +23,7 @@
 
 **_斜體與粗體字_**
 
-～刪除線～
+~～刪除線～~
 
 >item list
 >>1.the first item
